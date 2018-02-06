@@ -951,8 +951,8 @@ babel-eslint@8.2.1:
     eslint-visitor-keys "^1.0.0"
 
 babel-generator@^6.18.0:
-  version "6.26.0"
-  resolved "https://registry.yarnpkg.com/babel-generator/-/babel-generator-6.26.0.tgz#ac1ae20070b79f6e3ca1d3269613053774f20dc5"
+  version "6.26.1"
+  resolved "https://registry.yarnpkg.com/babel-generator/-/babel-generator-6.26.1.tgz#1844408d3b8f0d35a404ea7ac180f087a601bd90"
   dependencies:
     babel-messages "^6.23.0"
     babel-runtime "^6.26.0"
@@ -960,7 +960,7 @@ babel-generator@^6.18.0:
     detect-indent "^4.0.0"
     jsesc "^1.3.0"
     lodash "^4.17.4"
-    source-map "^0.5.6"
+    source-map "^0.5.7"
     trim-right "^1.0.1"
 
 babel-messages@^6.23.0:
@@ -1208,8 +1208,8 @@ camelcase@^1.0.2:
   resolved "https://registry.yarnpkg.com/camelcase/-/camelcase-1.2.1.tgz#9bb5304d2e0b56698b2c758b08a3eaa9daa58a39"
 
 caniuse-lite@^1.0.30000792:
-  version "1.0.30000792"
-  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000792.tgz#d0cea981f8118f3961471afbb43c9a1e5bbf0332"
+  version "1.0.30000802"
+  resolved "https://registry.yarnpkg.com/caniuse-lite/-/caniuse-lite-1.0.30000802.tgz#807ead8e2b59a3b90f26702fb0b220623ad9f287"
 
 caseless@~0.12.0:
   version "0.12.0"
@@ -1734,11 +1734,11 @@ eslint-config-cup@^1.0.0-rc.4:
   version "1.0.0"
   resolved "https://registry.yarnpkg.com/eslint-config-cup/-/eslint-config-cup-1.0.0.tgz#0fcdb787fe254fc9458ec5258143cb0d47052896"
 
-eslint-config-fusion@0.1.2:
-  version "0.1.2"
-  resolved "https://registry.yarnpkg.com/eslint-config-fusion/-/eslint-config-fusion-0.1.2.tgz#cf380a75090d3cee0c9c086165b86fd60619e0aa"
+eslint-config-fusion@0.2.1:
+  version "0.2.1"
+  resolved "https://registry.yarnpkg.com/eslint-config-fusion/-/eslint-config-fusion-0.2.1.tgz#39db6979719dab00953e561b2ff0af66981397bb"
   dependencies:
-    eslint-config-uber-universal-stage-3 "^1.0.0-rc.6"
+    eslint-config-uber-universal-stage-3 "^1.0.0-rc.7"
 
 eslint-config-prettier@^2.0.0:
   version "2.9.0"
@@ -1758,7 +1758,7 @@ eslint-config-uber-base@^1.0.0-rc.7:
   dependencies:
     eslint-config-prettier "^2.0.0"
 
-eslint-config-uber-universal-stage-3@^1.0.0-rc.6:
+eslint-config-uber-universal-stage-3@^1.0.0-rc.7:
   version "1.0.0-rc.7"
   resolved "https://registry.yarnpkg.com/eslint-config-uber-universal-stage-3/-/eslint-config-uber-universal-stage-3-1.0.0-rc.7.tgz#bd4de38543d3c27cf48d82925bfccb5efb5b541f"
   dependencies:
@@ -2820,8 +2820,8 @@ locate-path@^2.0.0:
     path-exists "^3.0.0"
 
 lodash@^4.13.1, lodash@^4.14.0, lodash@^4.15.0, lodash@^4.17.4, lodash@^4.2.0, lodash@^4.3.0:
-  version "4.17.4"
-  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.4.tgz#78203a4d1c328ae1d86dca6460e369b57f4055ae"
+  version "4.17.5"
+  resolved "https://registry.yarnpkg.com/lodash/-/lodash-4.17.5.tgz#99a92d65c0272debe8c96b6057bc8fbfa3bed511"
 
 longest@^1.0.1:
   version "1.0.1"
@@ -3805,7 +3805,7 @@ source-map@^0.4.4:
   dependencies:
     amdefine ">=0.0.4"
 
-source-map@^0.5.0, source-map@^0.5.3, source-map@^0.5.6, source-map@~0.5.1:
+source-map@^0.5.0, source-map@^0.5.3, source-map@^0.5.6, source-map@^0.5.7, source-map@~0.5.1:
   version "0.5.7"
   resolved "https://registry.yarnpkg.com/source-map/-/source-map-0.5.7.tgz#8a039d2d1021d22d1ea14c80d8ea468ba2ef3fcc"
 
